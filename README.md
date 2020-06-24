@@ -15,3 +15,5 @@ Few more updates from Branch
 
 Updates which will cause trouble
 >>>>>>> very-bad
+
+New update which is WIP and will be stashed -- Completed the work and now commiting the change
