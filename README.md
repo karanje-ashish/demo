@@ -6,4 +6,6 @@ New Updates
 
 More new updates 
 
-Few more updates from Branch
+Updating same line which will cause problem
+
+New line from Master branch
